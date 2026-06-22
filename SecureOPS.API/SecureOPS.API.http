@@ -1,0 +1,6 @@
+@SecureOPS.API_HostAddress = http://localhost:5157
+
+GET {{SecureOPS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
