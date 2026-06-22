@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SecureOPS.API/SecureOPS.WebAPI.csproj" />
+  <Project Path="SecureOPS.Applications/SecureOPS.Applications.csproj" Id="7830e909-a24c-4cb6-9fbf-bb25fc534abd" />
+  <Project Path="SecureOPS.Domain/SecureOPS.Domain.csproj" Id="aaca5825-b493-4b6c-8643-67f08089424a" />
+  <Project Path="SecureOPS.Infrastructure/SecureOPS.Infrastructure.csproj" Id="f6716eba-6f99-4713-ab57-68ebdf5c0f36" />
+  <Project Path="SecureOPS.Test/SecureOPS.Test.csproj" Id="154c4572-9e98-4cc9-83ce-4bcb0145b2ab" />
+</Solution>
